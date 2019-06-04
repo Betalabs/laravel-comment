@@ -1,5 +1,5 @@
 {
-    "name": "actuallymab/laravel-comment",
+    "name": "betalabs/laravel-comment",
     "type": "library",
     "description": "Just another comment system for laravel projects.",
     "keywords": [
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "illuminate/database": "5.7.*",
+        "illuminate/database": "5.8.*",
         "php": "^7.1.3"
     },
     "require-dev": {
